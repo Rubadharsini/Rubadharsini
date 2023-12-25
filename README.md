@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://rubacse2110.wixsite.com/my-site-1](https://rubacse2110.wixsite.com/my-site-1)
+- 👨‍💻 All of my projects are available at [https://658588e044a5bcc8b2b4eaa3--monumental-alfajores-3132a0.netlify.app/]
 
 - 💬 Ask me about **web Development, python, full stack development, Cyber security**
 

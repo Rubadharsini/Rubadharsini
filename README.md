@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://658588e044a5bcc8b2b4eaa3--monumental-alfajores-3132a0.netlify.app/]
+- 👨‍💻 All of my projects are available are https://65b60e0c4d919a3152bf53d3--sparkly-semolina-1b5537.netlify.app/
 
 - 💬 Ask me about **web Development, python, full stack development, Cyber security**
 

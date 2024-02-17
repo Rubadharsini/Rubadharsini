@@ -1,8 +1,14 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](
-<h1 align="center">Hi 👋, I'm RUBADHARSINI</h1>
-<h3 align="center">A passionate Web developer,full stack developer & android dev from India.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubadharsini&label=Profile%20views&color=0e75b6&style=flat" alt="rubadharsini" /> </p>
+<img src="https://github.com/Poorani-27/Poorani-27/blob/main/cover%20image.png" alt="Cover Image" width="100%">
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+POORANI+TAMILVASAN+,+a+passionate+software+developer" alt="Typing SVG">
+  </a>
+</p>
+
+ ## <h3 align = center><b>About Me </b> </h3>
+
+
 
 <p align="left"> <a href="https://twitter.com/cseruba" target="blank"><img src="https://img.shields.io/twitter/follow/cseruba?logo=twitter&style=for-the-badge" alt="cseruba" /></a> </p>
 

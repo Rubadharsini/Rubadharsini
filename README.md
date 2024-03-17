@@ -85,6 +85,9 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ### 🐍 Contribution snake
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubadharsini&" alt="rubadharsini" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubadharsini&show_icons=true&locale=en&layout=compact" alt="rubadharsini" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubadharsini&show_icons=true&locale=en" alt="rubadharsini" /></p>
 
 
 ### 🔗 Social info

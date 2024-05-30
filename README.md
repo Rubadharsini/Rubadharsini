@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Mern stack developement**
 
-- 👨‍💻 All of my projects are available are https://65b60e0c4d919a3152bf53d3--sparkly-semolina-1b5537.netlify.app/
+- 👨‍💻 All of my projects are available are https://soft-moonbeam-9e1873.netlify.app/
 
 - 💬 Ask me about **web Development, python, full stack development, Cyber security**
 

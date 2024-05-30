@@ -68,8 +68,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubadharsini&show_icons=true&locale=en" alt="rubadharsini" /></p>
 
 
-### 🔗 Social info
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cseruba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cseruba" height="30" width="40" /></a>

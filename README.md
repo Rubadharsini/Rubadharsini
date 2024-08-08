@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently complete my Graduate on **BE-COMPUTER SCIENCE AND ENGINEERING FROM BHARATHIYAR INSTITUTE OF ENGINEERING FOR WOMEN**
 
-- 🌱 I’m currently learning **Mern stack developement**
+- 🌱 I’m currently learning **DATA STRUCTURE & ALGORITHM**
 
 - 👨‍💻 All of my projects are available are https://soft-moonbeam-9e1873.netlify.app/
 

@@ -8,7 +8,7 @@
 
 ## <h3 align = center><b>About Me </b> </h3>
 
-- 🔭 I’m currently complete my Graduate on **BE-COMPUTER SCIENCE AND ENGINEERING FROM BHARATHIYAR INSTITUTE OF ENGINEERING FOR WOMEN**
+- 🔭 I’m currently complete my Graduate on **BE-COMPUTER SCIENCE & ENGINEERING FROM BHARATHIYAR INSTITUTE OF ENGINEERING FOR WOMEN**
 
 - 🌱 I’m currently learning **DATA STRUCTURE & ALGORITHM  with C++**
 

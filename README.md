@@ -2,19 +2,19 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+RUBADHARSINI+SARAVANAN,+a+passionate+software+developer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+RUBADHARSINI+SARAVANAN,+a+passionate UI/UX designer+ Video Editor" alt="Typing SVG">
   </a>
 </p>
 
 ## <h3 align = center><b>About Me </b> </h3>
 
-- 🔭 I’m currently complete my Graduate on **BE-COMPUTER SCIENCE & ENGINEERING FROM BHARATHIYAR INSTITUTE OF ENGINEERING FOR WOMEN**
+- 🔭 I’m recently completed my Graduation on **BE-COMPUTER SCIENCE & ENGINEERING FROM BHARATHIYAR INSTITUTE OF ENGINEERING FOR WOMEN**
 
-- 🌱 I’m currently learning **DATA STRUCTURE & ALGORITHM  with C++**
+- 🌱 I’m currently learning **DATA STRUCTURE & ALGORITHM  with C++ , UI/UX designer, Video Editor & Content writer**
 
 - 👨‍💻 All of my projects are available are https://soft-moonbeam-9e1873.netlify.app/
 
-- 💬 Ask me about **web Development, python, full stack development, Cyber security**
+- 💬 Ask me about **web Development, python, full stack development, Cyber security, UI/UX Designer, Video Editor, Content Creator**
 
 - 📫 How to reach me **rubacse2110@gmail.com**
 

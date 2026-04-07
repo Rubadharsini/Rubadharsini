@@ -8,7 +8,31 @@
 
 ## <h3 align = center><b>About Me </b> </h3>
 
-- 🔭 I’m recently completed my Graduation on **BE-COMPUTER SCIENCE & ENGINEERING FROM BHARATHIYAR INSTITUTE OF ENGINEERING FOR WOMEN**
+- 🔭  I’m Rubadharsini S, a Computer Science graduate, AI Data video labeling at NVIDIA and Ex - AI/LLM Data Annotator Innodata inc, and Co-Founder of Persyntra solutions with Marketing Lead and hands-on experience in AI operations, prompt engineering, lead generation, digital marketing, cloud programs, analytics and automation.
+
+Currently, I work as a AI data video labeling at NVIDIA  and Ex Data Annotator  (AI/LLM) at Innodata Inc., contributing to real-world AI systems through text, image and prompt-based annotation, prompt and response evaluation, data quality audits, and strict guideline and QA compliance to improve model reliability.
+
+Alongside this, I serve as Co-Founder & Marketing Lead at Persyntra Solutions, where I lead AI-assisted lead generation, marketing automation, CRM-based funnel tracking, campaign planning, and client requirement analysis to deliver scalable digital growth solutions.
+
+I design and optimize prompt workflows for content creation, outreach personalization, lead qualification and automation scripting using Generative AI tools, and collaborate with delivery and sales teams to improve conversion and engagement.
+
+I also contribute as a Google Cloud Facilitator / Community Host, supporting 1,000+ learners, building dashboards and progress reports, and driving learner engagement across multiple cohorts.
+
+Previously, I’ve worked across data analytics, cybersecurity, mentoring and content strategy roles with EY, IBM, Vodafone Idea and Infosys Springboard, building strong foundations in data analysis, cloud platforms and automation.
+
+I enjoy building scalable, AI-driven systems at the intersection of GenAI, cloud, data, automation and digital marketing.
+
+🔹 Generative AI & Prompt Engineering Tools
+ChatGPT (advanced prompting, workflow prompts, evaluation prompts), Gemini, Claude, Perplexity AI, Microsoft Copilot, Google AI Studio, OpenAI.
+
+🔹 Lead Generation & Marketing Tools
+Google Forms, Google Sheets, Excel CRM trackers, Notion CRM, Canva, Buffer, Hootsuite, Meta Business Suite, Google Analytics
+
+🔹 Core Skills & Keywords
+Prompt Engineering, Generative AI, LLM Evaluation, AI Data Annotation, Data Quality & QA, Lead Generation, B2B Marketing, Marketing Automation, CRM & Funnel Tracking, Campaign Management, Python, Power BI, Data Analysis, Cloud (GCP, AWS), Dashboards & Reporting.
+
+🔹 Tools & Platforms
+ChatGPT, Gemini, Claude, Microsoft Copilot, Perplexity, Google AI Studio, LinkedIn Sales Navigator, Apollo, Hunter.
 
 - 🌱 I’m currently learning **DATA STRUCTURE & ALGORITHM  with C++ , UI/UX designer, Video Editor & Content writer**
 
@@ -16,7 +40,7 @@
 
 - 💬 Ask me about **web Development, python, full stack development, Cyber security, UI/UX Designer, Video Editor, Content Creator**
 
-- 📫 How to reach me **rubacse2110@gmail.com**
+- 📫 How to reach me **rubadharsini.linkedin@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oF5h_4UP_Eppssv1jzijopE1h5GY-rNp/view?usp=drive_link](https://drive.google.com/file/d/1oF5h_4UP_Eppssv1jzijopE1h5GY-rNp/view?usp=drive_link)
 
@@ -71,7 +95,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cseruba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cseruba" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rubadharsini-saravanan-8a87aa24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rubadharsini-saravanan-8a87aa24a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rubadharsini-s-56848b382
 <a href="https://medium.com/@rubadharsini s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rubadharsini s" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/meenu_creational" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meenu_creational" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/@rubadharsini s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@rubadharsini s" height="30" width="40" /></a>

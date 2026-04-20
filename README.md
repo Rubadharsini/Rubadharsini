@@ -8,9 +8,9 @@
 
 ## <h3 align = center><b>About Me </b> </h3>
 
-- 🔭  I’m Rubadharsini S, a Computer Science graduate, AI Data video labeling at NVIDIA and Ex - AI/LLM Data Annotator Innodata inc, and Co-Founder of Persyntra solutions with Marketing Lead and hands-on experience in AI operations, prompt engineering, lead generation, digital marketing, cloud programs, analytics and automation.
+- I’m Rubadharsini S, a Computer Science graduate, AI Data Operations Associate at NVIDIA and Ex - AI/LLM Data Annotator Innodata inc, and Co-Founder of Persyntra solutions with Marketing Lead and hands-on experience in AI operations, prompt engineering, lead generation, digital marketing, cloud programs, analytics and automation.
 
-Currently, I work as a AI data video labeling at NVIDIA  and Ex Data Annotator  (AI/LLM) at Innodata Inc., contributing to real-world AI systems through text, image and prompt-based annotation, prompt and response evaluation, data quality audits, and strict guideline and QA compliance to improve model reliability.
+Currently, I work as a AI Data Operations Associate at NVIDIA  and Ex Data Annotator  (AI/LLM) at Innodata Inc., contributing to real-world AI systems through text, image and prompt-based annotation, prompt and response evaluation, data quality audits, and strict guideline and QA compliance to improve model reliability.
 
 Alongside this, I serve as Co-Founder & Marketing Lead at Persyntra Solutions, where I lead AI-assisted lead generation, marketing automation, CRM-based funnel tracking, campaign planning, and client requirement analysis to deliver scalable digital growth solutions.
 
@@ -33,6 +33,9 @@ Prompt Engineering, Generative AI, LLM Evaluation, AI Data Annotation, Data Qual
 
 🔹 Tools & Platforms
 ChatGPT, Gemini, Claude, Microsoft Copilot, Perplexity, Google AI Studio, LinkedIn Sales Navigator, Apollo, Hunter.
+🔹 Contact me :
+Email: rubadharsini.linkedin@gmail.com 
+LinkedIn: RUBADHARSINI S
 
 - 🌱 I’m currently learning **DATA STRUCTURE & ALGORITHM  with C++ , UI/UX designer, Video Editor & Content writer**
 
